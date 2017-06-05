@@ -1,6 +1,9 @@
 install:
+
 	pip install -r requirements.txt
+
 	easy_install ast
+
 how to use:
 
 	if you want to get user's classtable, you can use parser_classtable.py
