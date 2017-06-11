@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import urllib.request
 from pyquery import PyQuery as pq
 import urllib,sys,requests,time
